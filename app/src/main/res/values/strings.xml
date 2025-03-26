@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="labelTitle">Odczyt GPS i sensorów</string>
+    <string name="labelLonText">Długość geo.</string>
+    <string name="labelLatText">Szerokosć geo.</string>
+    <string name="labelHgtText">Wysokość n.p.m</string>
+    <string name="textGeoNone">--\u00BA --\u0027 --.---\u0022</string>
+    <string name="textGeoValue">%d\u00BA %d\u0027 %t.3f\u0022 %c</string>
+    <string name="textHgtNone">---- m</string>
+    <string name="textHgtValue">%d m</string>
+    <string name="compassText">KOMPAS CYFROWY</string>
+    <string name="noPermission">Brak uprawnień do odczytu współrzędnych GPS!</string>
+    <string name="permissionGranted">Przyznano uprawnienia</string>
+    <string name="noAcc">Brak akcelerometru</string>
+    <string name="noMag">Brak magnetometru</string>
+
+</resources>
